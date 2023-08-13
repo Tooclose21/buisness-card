@@ -1,0 +1,29 @@
+body {
+    margin: 20px;  
+}
+
+.fotka {
+    display: block;
+    width: 150px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.border {
+    border-bottom: 10px solid #d8cefe;
+}
+
+.card {
+    width: 400px;
+    padding: 20px;
+    display: block;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #ddebf8;
+    color: #2b2839;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
